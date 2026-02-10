@@ -1,4 +1,5 @@
 # AI_Core_Evolution
+Status: 🚧 Evolution in Progress  
 Currently focusing on Mathematics Foundations and LLM Primitives
 ## 🚀 Road to CQ-AI Academy (2026 Plan)
 
@@ -13,4 +14,8 @@ Currently focusing on Mathematics Foundations and LLM Primitives
 - **Target:** CQUPT ➡️ Chongqing AI Academy (Guangyang Isle)
 
 ### 📚 Course Synchronization (CQUPT-SMART)
-- Integration of Discrete Mathematics and Algorithm implementation.  
+- Integration of Discrete Mathematics and Algorithm implementation.
+- ## 📁 Repository Structure
+* `Algorithms/LeetCode`: Daily coding practice and algorithmic thinking.
+* `LLM-Exp/Ollama-Notes`: Local LLM experiments and deployment notes.
+* `Research/Paper-Readings`: Deep dives into foundational AI research.
