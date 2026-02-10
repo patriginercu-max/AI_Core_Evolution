@@ -13,4 +13,4 @@ Currently focusing on Mathematics Foundations and LLM Primitives
 - **Target:** CQUPT ➡️ Chongqing AI Academy (Guangyang Isle)
 
 ### 📚 Course Synchronization (CQUPT-SMART)
-- Integration of Discrete Mathematics and Algorithm implementation.
+- Integration of Discrete Mathematics and Algorithm implementation.  
