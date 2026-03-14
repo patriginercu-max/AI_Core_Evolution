@@ -12,11 +12,16 @@
 
 ### Ⅱ. 核心代码实现 (Code Implementation)
 
+
 class Solution:
+    
     def convert(self, s, numRows):
+       
         # 边界处理：行数小于 2 或大于字符串长度，结果就是原串
+       
         if numRows < 2 or numRows >= len(s):
             return s
+        
         # 1. 创建 numRows 个桶，每个桶代表一行
         rows = [""] * numRows
         curRow = 0
