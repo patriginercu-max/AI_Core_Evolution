@@ -13,6 +13,7 @@
 ### Ⅱ. 核心代码实现 (Code Implementation)
 
 
+
 class Solution:
     
     def convert(self, s, numRows):
