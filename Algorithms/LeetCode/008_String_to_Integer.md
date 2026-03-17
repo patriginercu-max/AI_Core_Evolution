@@ -13,6 +13,8 @@
 
 ### 2. 代码实现与详细注释 (Python)
 class Solution:
+    
+    
     def myAtoi(self, s: str) -> int:
         # 1. 移除前导空格
         s = s.lstrip()
