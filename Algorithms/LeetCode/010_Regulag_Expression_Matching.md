@@ -17,6 +17,7 @@
 2. 代码实现与详细注释
 ---------------------------------------------------------
 class Solution:
+   
     def isMatch(self, s: str, p: str) -> bool:
         m, n = len(s), len(p)
         # dp[i][j] 代表 s 的前 i 个字符和 p 的前 j 个字符是否匹配
